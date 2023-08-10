@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **on Flutter with Dart and Android with Java.**
 
-- 👯 I’m looking to collaborate on **projects related to Mobile Application Development projects.**
+- 👯 I’m looking to collaborate **projects related to Mobile Application Development projects.**
 
-- 💬 Ask me about **C++, Java, Mobile Application Development, Flutter, Dart, Android.**
+- 💬 Ask me about **Tech, Freelancing, Graphics Designing, Animation, Mobile Application Development, Flutter, Dart, Android, Java, C++.**
 
-- 📫 How to reach me **alibhai2321@gmail.com**
+- 📫 How to reach me **smaaj26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
