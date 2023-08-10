@@ -35,15 +35,11 @@
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=aliaoun&show_icons=true&locale=en" alt="aliaoun" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aliaoun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aliaoun" />
   </div>
   <div style="margin-left: auto;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliaoun&" alt="aliaoun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliaoun&&theme=tokyonight" alt="aliaoun" />
   </div>
 </div>
 
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliaoun&show_icons=true&locale=en&layout=compact" alt="aliaoun" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliaoun&show_icons=true&locale=en&theme=tokyonight" alt="aliaoun" /></p>
