@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/AliAoun/AliAoun/assets/80461232/e6cc8d42-69be-41c3-957a-862d706d1801)
 
 <h1 align="center">Hi 👋, I'm Ali Aoun</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
