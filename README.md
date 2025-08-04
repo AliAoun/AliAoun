@@ -59,9 +59,11 @@ I'm a passionate Machine Learning Researcher & Software Engineer with a backgrou
 
 <div style="display: flex; align-items: center;">
   <div>
+    <img src="https://leetcard.jacoblin.cool/aliaoun?theme=catppuccinMocha&font=Fira%20Code&ext=activity" alt="aliaoun" />
+  </div>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=aliaoun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aliaoun" />
   </div>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/aliaoun?theme=dark&font=Fira%20Code&ext=activity)
   <div style="margin-left: auto;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliaoun&&theme=tokyonight" alt="aliaoun" />
   </div>
