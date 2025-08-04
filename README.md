@@ -2,7 +2,7 @@
 
 I'm a passionate Machine Learning Researcher & Software Engineer with a background in Software Engineering and a drive to solve real-world problems through innovative AI solutions. My work spans predictive healthcare models, computer vision, and data science—transforming complex data into impactful insights.
 
-<h3 align="center">Researcher • Machine Learning Enthusiast • AI Innovator</h3>
+<h3 align="center">Software Engineer • Researcher (AI/ML Enthusiast)</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aliaoun&label=Profile%20views&color=0e75b6&style=flat" alt="aliaoun" />
