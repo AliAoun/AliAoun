@@ -44,7 +44,7 @@ I'm a passionate Machine Learning Researcher & Software Engineer with a backgrou
 <a href="https://twitter.com/aountech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aountech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ali-aoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-aoun" height="30" width="40" /></a>
 <a href="https://instagram.com/aountech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aountech" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/smaaj26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smaaj26" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/aliaoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smaaj26" height="30" width="40" /></a>
 </p>
 
 ---
