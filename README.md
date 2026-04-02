@@ -36,6 +36,43 @@ I build data-driven AI systems with a strong focus on **predictive healthcare**,
 
 ---
 
+<!-- 🏆 TOP-TIER RESEARCH & ENGINEERING CERTIFICATIONS -->
+### 📜 Verified Professional Specializations & Expertise
+<!-- <p align="center">─────────────── ✦ ───────────────</p>
+<p align="center">Machine Learning, Research & Secure Systems</p>
+
+<details close>
+  <summary align="center">
+    <br/>
+    <h2 align="center"> ➡️ <kbd> &nbsp; CERTIFICATIONS &nbsp; </kbd> ⬅️ </h2>
+    <p align="center"><i>(Click to expand my full technical validation portfolio)</i></p>
+    <p align="center">─────────────── ✦ ───────────────</p>
+  </summary>
+  <br/> -->
+
+  | Certificate | Issuer | Verification |
+  | :--- | :--- | :--- |
+  | **Machine Learning Specialization** | DeepLearning.AI & Stanford | [Verify Here](https://www.coursera.org/account/accomplishments/specialization/CGO74C9ZU1B4) |
+  | **Introduction to Large Language Models** | Google Cloud | [Verify Here](http://coursera.org/account/accomplishments/verify/S45SHJEG7DN7) |
+  | **Generative AI Studio** | Google Cloud | [Verify Here](http://coursera.org/account/accomplishments/verify/23SPACKJD4ST) |
+  | **Data Security & Network Analysis** | Cisco | [Verify Here](http://coursera.org/account/accomplishments/verify/GNRRMNAL95ZP) |
+  | **Tweet Emotion Recognition (NLP)** | Coursera Project Network | [Verify Here](http://coursera.org/account/accomplishments/verify/VZND2VD2XG69) |
+  | **Supervised Machine Learning** | DeepLearning.AI & Stanford | [Verify Here](http://coursera.org/account/accomplishments/verify/NFP2842U6475) |
+  | **Unsupervised Learning & Recommenders** | DeepLearning.AI & Stanford | [Verify Here](http://coursera.org/account/accomplishments/verify/EV898P071SWT) |
+  | **Python Data Structures** | University of Michigan | [Verify Here](http://coursera.org/account/accomplishments/verify/YUXXJRT6YLYB) |
+  | **Version Control (Git & GitHub)** | Meta | [Verify Here](http://coursera.org/account/accomplishments/verify/4BV92ZQHSYNY) |
+  | **Solidity: Smart Contract Development** | Coursera Project Network | [Verify Here](http://coursera.org/account/accomplishments/verify/FCAUVQCSVUJD) |
+  | **Dart Functions Framework** | Google Cloud | [Verify Here](http://coursera.org/account/accomplishments/verify/GWX95W9CYJTQ) |
+  | **Getting started with Flutter** | Google Cloud | [Verify Here](http://coursera.org/account/accomplishments/verify/YENFMAUZTVKR) |
+  | **Introduction to TCP/IP** | Yonsei University | [Verify Here](http://coursera.org/account/accomplishments/verify/KPWRT6LB8VDT) |
+  | **Introduction to Generative AI** | Google Cloud | [Verify Here](http://coursera.org/account/accomplishments/verify/BAYEXPJ7YNX7) |
+  | **Programming for Everybody (Python)** | University of Michigan | [Verify Here](http://coursera.org/account/accomplishments/verify/SXJB76G3BC6U) |
+
+</details>
+<!-- 🏆 TOP-TIER RESEARCH & ENGINEERING CERTIFICATIONS END -->
+
+---
+
 ### 🧠 Problem Solving (LeetCode)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aliaoun?theme=catppuccinMocha&font=Fira%20Code&ext=activity" />
