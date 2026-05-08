@@ -100,3 +100,9 @@ I build data-driven AI systems with a strong focus on **predictive healthcare**,
 <p align="center">
   <img src="https://github-visitor-counter-tau.vercel.app/api?username=AliAoun&displayMode=topCountries&columns=5&maxflags=15" />
 </p>
+
+<div style="display:none;">
+<a href="https://info.flagcounter.com/sGaq">
+  <img src="https://s01.flagcounter.com/count2/sGaq/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+</a>
+</div>
