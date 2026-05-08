@@ -94,3 +94,9 @@ I build data-driven AI systems with a strong focus on **predictive healthcare**,
   <img src="https://github-readme-stats.vercel.app/api?username=aliaoun&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliaoun&theme=tokyonight" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=AliAoun&displayMode=topCountries&columns=5&maxflags=15" />
+</p>
